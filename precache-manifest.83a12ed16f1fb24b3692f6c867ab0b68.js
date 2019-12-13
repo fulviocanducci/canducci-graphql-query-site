@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87f9a6fea54fcde74241adf918e37a71",
+    "revision": "b8750a7bb2beba10390dc1e55b978239",
     "url": "/canducci-graphql-query-site/index.html"
   },
   {

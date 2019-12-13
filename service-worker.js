@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/canducci-graphql-query-site/precache-manifest.1ccebfd1503d9570f2d972f2c5ec6065.js"
+  "/canducci-graphql-query-site/precache-manifest.83a12ed16f1fb24b3692f6c867ab0b68.js"
 );
 
 self.addEventListener('message', (event) => {
