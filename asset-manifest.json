@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/canducci-graphql-query-site/static/js/main.adbcadfa.chunk.js",
-    "main.js.map": "/canducci-graphql-query-site/static/js/main.adbcadfa.chunk.js.map",
+    "main.js": "/canducci-graphql-query-site/static/js/main.a8c39de5.chunk.js",
+    "main.js.map": "/canducci-graphql-query-site/static/js/main.a8c39de5.chunk.js.map",
     "runtime-main.js": "/canducci-graphql-query-site/static/js/runtime-main.e7db92dd.js",
     "runtime-main.js.map": "/canducci-graphql-query-site/static/js/runtime-main.e7db92dd.js.map",
-    "static/js/2.c70d5239.chunk.js": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js",
-    "static/js/2.c70d5239.chunk.js.map": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js.map",
+    "static/js/2.ea915cee.chunk.js": "/canducci-graphql-query-site/static/js/2.ea915cee.chunk.js",
+    "static/js/2.ea915cee.chunk.js.map": "/canducci-graphql-query-site/static/js/2.ea915cee.chunk.js.map",
     "index.html": "/canducci-graphql-query-site/index.html",
-    "precache-manifest.82748d8932bba9fddc89dd0941adf1b1.js": "/canducci-graphql-query-site/precache-manifest.82748d8932bba9fddc89dd0941adf1b1.js",
+    "precache-manifest.21302df8e7be27af1f99e35e5aa8390c.js": "/canducci-graphql-query-site/precache-manifest.21302df8e7be27af1f99e35e5aa8390c.js",
     "service-worker.js": "/canducci-graphql-query-site/service-worker.js",
-    "static/js/2.c70d5239.chunk.js.LICENSE": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js.LICENSE"
+    "static/js/2.ea915cee.chunk.js.LICENSE": "/canducci-graphql-query-site/static/js/2.ea915cee.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.e7db92dd.js",
-    "static/js/2.c70d5239.chunk.js",
-    "static/js/main.adbcadfa.chunk.js"
+    "static/js/2.ea915cee.chunk.js",
+    "static/js/main.a8c39de5.chunk.js"
   ]
 }
