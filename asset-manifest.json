@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/canducci-graphql-site/static/js/main.badbbfac.chunk.js",
-    "main.js.map": "/canducci-graphql-site/static/js/main.badbbfac.chunk.js.map",
-    "runtime-main.js": "/canducci-graphql-site/static/js/runtime-main.e68a4a0f.js",
-    "runtime-main.js.map": "/canducci-graphql-site/static/js/runtime-main.e68a4a0f.js.map",
-    "static/js/2.c70d5239.chunk.js": "/canducci-graphql-site/static/js/2.c70d5239.chunk.js",
-    "static/js/2.c70d5239.chunk.js.map": "/canducci-graphql-site/static/js/2.c70d5239.chunk.js.map",
-    "index.html": "/canducci-graphql-site/index.html",
-    "precache-manifest.eb343313c1230094734fac297e7342de.js": "/canducci-graphql-site/precache-manifest.eb343313c1230094734fac297e7342de.js",
-    "service-worker.js": "/canducci-graphql-site/service-worker.js",
-    "static/js/2.c70d5239.chunk.js.LICENSE": "/canducci-graphql-site/static/js/2.c70d5239.chunk.js.LICENSE"
+    "main.js": "/canducci-graphql-query-site/static/js/main.adbcadfa.chunk.js",
+    "main.js.map": "/canducci-graphql-query-site/static/js/main.adbcadfa.chunk.js.map",
+    "runtime-main.js": "/canducci-graphql-query-site/static/js/runtime-main.e7db92dd.js",
+    "runtime-main.js.map": "/canducci-graphql-query-site/static/js/runtime-main.e7db92dd.js.map",
+    "static/js/2.c70d5239.chunk.js": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js",
+    "static/js/2.c70d5239.chunk.js.map": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js.map",
+    "index.html": "/canducci-graphql-query-site/index.html",
+    "precache-manifest.82748d8932bba9fddc89dd0941adf1b1.js": "/canducci-graphql-query-site/precache-manifest.82748d8932bba9fddc89dd0941adf1b1.js",
+    "service-worker.js": "/canducci-graphql-query-site/service-worker.js",
+    "static/js/2.c70d5239.chunk.js.LICENSE": "/canducci-graphql-query-site/static/js/2.c70d5239.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.e68a4a0f.js",
+    "static/js/runtime-main.e7db92dd.js",
     "static/js/2.c70d5239.chunk.js",
-    "static/js/main.badbbfac.chunk.js"
+    "static/js/main.adbcadfa.chunk.js"
   ]
 }
