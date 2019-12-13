@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02c3c04e44fb924a2af8212e3b8f9755",
+    "revision": "87f9a6fea54fcde74241adf918e37a71",
     "url": "/canducci-graphql-query-site/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/canducci-graphql-query-site/static/js/2.58f5fa92.chunk.js.LICENSE"
   },
   {
-    "revision": "fd5c04595d23c820a9dc",
-    "url": "/canducci-graphql-query-site/static/js/main.4f77c147.chunk.js"
+    "revision": "4a02b17d13b624b55951",
+    "url": "/canducci-graphql-query-site/static/js/main.f4dbd1af.chunk.js"
   },
   {
     "revision": "a0a478135f621a7a0d04",
